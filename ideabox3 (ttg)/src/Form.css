@@ -1,0 +1,21 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.stepper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yes-click {
+  background-color: forestgreen;
+}
+
+.no-click {
+ background-color: darkred;
+}
+
+.border {
+  border: 1px red dashed;
+}
